@@ -1,3 +1,5 @@
+# setup.py
+# -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
 
 setup(
@@ -9,7 +11,7 @@ setup(
         'scipy',  # Añade cualquier dependencia adicional
     ],
     description='Librería para resolver sistemas de ecuaciones lineales y no lineales.',
-    long_description=open('README.md').read(),
+    long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     author='Marvin',
     author_email='dm23004@ues.edu.sv',
