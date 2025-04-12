@@ -15,7 +15,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Marvin',
     author_email='dm23004@ues.edu.sv',
-    url='https://github.com/DM23004/DM23004CDA',
+    url='https://github.com/DM23004/DM23004UNO',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
