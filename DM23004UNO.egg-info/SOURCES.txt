@@ -3,7 +3,7 @@ MANIFEST.in
 README.md
 pyproject.toml
 setup.py
-DM23004UNO/_init__.py
+DM23004UNO/__init__.py
 DM23004UNO/iterativos.py
 DM23004UNO/lineal.py
 DM23004UNO/no_lineal.py
