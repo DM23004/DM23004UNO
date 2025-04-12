@@ -1,5 +1,7 @@
+LICENSE
 MANIFEST.in
 README.md
+pyproject.toml
 setup.py
 DM23004UNO/_init__.py
 DM23004UNO/iterativos.py

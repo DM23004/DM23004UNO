@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='DM23004UNO',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     install_requires=[
         'numpy',
@@ -15,7 +15,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Marvin',
     author_email='dm23004@ues.edu.sv',
-    url='https://github.com/DM23004/DM23004CDA',
+    url='https://github.com/DM23004/DM23004UNO',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
