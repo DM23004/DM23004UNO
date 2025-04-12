@@ -1,0 +1,33 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de compilación
+build/
+dist/
+*.egg-info/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de configuración de IDEs y editores 
+.vscode/
+.idea/
+
+# Archivos de configuración de sistemas operativos
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Archivos de prueba o archivos intermedios de compilación
+*.bak
+*.swp
+
+# Archivos de base de datos locales
+*.sqlite
+*.db
